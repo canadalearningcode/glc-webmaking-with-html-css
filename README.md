@@ -1,8 +1,8 @@
 #Girls Learning Code: Webmaking with Scratch
 
-Preview Facilitator Guide: https://ladieslearningcode.github.io/glc-webmaking-with-html-css/facilitator-guide.html
+Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/glc-webmaking-with-html-css/facilitator-guide.html">ladieslearningcode.github.io/glc-webmaking-with-html-css/facilitator-guide.html</a>
 
-Preview Slides: https://ladieslearningcode.github.io/glc-webmaking-with-html-css/slides.html
+Preview Slides: <a href="https://ladieslearningcode.github.io/glc-webmaking-with-html-css/slides.html">ladieslearningcode.github.io/glc-webmaking-with-html-css/slides.html</a>
 
 HOW TO USE:
 ## Before the Workshop
