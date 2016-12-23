@@ -1,4 +1,4 @@
-#Girls Learning Code: Webmaking with Scratch
+#Girls Learning Code: Webmaking with HTML & CSS
 
 Preview Facilitator Guide: <a href="https://ladieslearningcode.github.io/glc-webmaking-with-html-css/facilitator-guide.html">ladieslearningcode.github.io/glc-webmaking-with-html-css/facilitator-guide.html</a>
 
